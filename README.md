@@ -21,3 +21,16 @@
 #### After
 
 ![5](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/ae0f966d-eec5-4892-ab8b-cc9c812fa0f1)
+
+### Breaking out PropertyAddress into Individual Columns
+
+#### Before
+
+![6](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/66148414-3d1f-44ca-b488-fb9dd289ba1a)
+
+#### After
+
+![7](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/e8d3b89e-1650-43b7-b3fc-c15479b11441)
+
+
+
