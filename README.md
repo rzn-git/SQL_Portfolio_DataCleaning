@@ -1,5 +1,7 @@
 # Data Cleaning in SQL
 
+Number of Rows 56,477
+
 ## Initial Data
 ![1](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/a430d2d5-dff5-44b5-ad6c-17911f75f577)
 
