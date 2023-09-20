@@ -43,7 +43,9 @@
 
 ![9](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/49c835dc-2fc7-4a18-87c5-26c2ce841495)
 
-## Change Y and N to Yes and No in "Sold as Vacant" field
+## Changing Y, N, Yes & No to a single format: Yes and No 
+
+"Sold as Vacant" column contained 4 types of data- Yes, Y, No & N. I kept the Yes & No as it is and looked for shortforms Y & N, then converted it into Yes & No accordingly. 
 
 ### Before
 
