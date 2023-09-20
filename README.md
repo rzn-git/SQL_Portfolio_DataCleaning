@@ -32,5 +32,54 @@
 
 ![7](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/e8d3b89e-1650-43b7-b3fc-c15479b11441)
 
+### Breaking out OwnerAddress into Individual Columns
+
+#### Before
+
+![8](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/d8957a25-4bb7-4c5f-a3a8-c6c91d44a342)
+
+
+#### After
+
+![9](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/49c835dc-2fc7-4a18-87c5-26c2ce841495)
+
+### Change Y and N to Yes and No in "Sold as Vacant" field
+
+#### Before
+
+![10](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/903a3263-5dad-4dfe-9a81-5ed09d974007)
+
+
+![11](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/aec244b6-c67b-4ebb-8ceb-b1da558cd29e) ![13](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/94028ff3-312e-46e4-90a5-7fc211c20406)
+
+#### After
+
+![15](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/c480ec01-8780-4c53-9b4e-06c7263f7f87)
+
+![12](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/f11cced0-3989-4d40-9b5c-765abff520b6)  
+![14](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/41ea69bd-1ce4-45ec-bba3-5924eb66df54)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
