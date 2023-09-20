@@ -7,7 +7,8 @@
 
 ### Before
 
-![2](https://github.com/rzn-git/SQL_Portfolio/assets/64501583/11a77c1b-37bd-43ce-8aef-8c359e8f2faa)
+![2](https://github.com/rzn-git/SQL_Portfolio_DataCleaning/assets/64501583/774f458f-bcbb-49dd-ac94-33a917780418)
+
 
 ### After
 
